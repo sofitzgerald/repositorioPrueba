@@ -8,4 +8,3 @@ Sesion 01 de GITHUB
 
 - Equipo 2 - tal
 > Integrantes: 
-holi gg 
